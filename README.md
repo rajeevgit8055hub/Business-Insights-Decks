@@ -1,0 +1,2 @@
+# Project-Showcase-Decks-Business-Communication-Insights
+The Business Presentations Repository is a curated collection of corporate-style decks built from my real projects. It transforms technical solutions into clear, business-ready communication. Covering domains like Excel, SQL, Power Query, Tableau, and Web Development, each deck follows a structured flow of problem → analysis → insights → impact. 
