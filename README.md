@@ -15,7 +15,7 @@ Every presentation is based on **real projects** and not just generic templates.
 Unlike random downloads, these decks have been thoughtfully built with:  
 
 - **Real business problems and case studies**  
-- **Technical execution using tools like Excel, SQL, Tableau, Web Dev**  
+- **Technical execution using tools like Excel, Power Query, SQL, Power BI, Access, Tableau, Web Dev**  
 - **Insights, outcomes, and recommendations** tailored for business stakeholders  
 
 Each presentation is structured in a way that it can directly be used as a **boardroom-ready communication tool**.  
@@ -192,7 +192,7 @@ If you find these presentations useful or want to collaborate, feel free to conn
 
 - 🌐 Portfolio Website: [My Official Website](https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/)  
 - 💼 LinkedIn: [Rajeev Tiwari](https://www.linkedin.com/in/rajeev-tiwari123)  
-- 📧 Email: rajeevtiwari8055@gmail.com  
+- 📧 Email: [E-mail](rajeevtiwari8055@gmail.com) 
 
 ---
 
