@@ -192,7 +192,7 @@ If you find these presentations useful or want to collaborate, feel free to conn
 
 - 🌐 Portfolio Website: [My Official Website](https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/)  
 - 💼 LinkedIn: [Rajeev Tiwari](https://www.linkedin.com/in/rajeev-tiwari123)  
-- 📧 Email: [E-mail](rajeevtiwari8055@gmail.com) 
+- 📧 Email: rajeevtiwari8055@gmail.com
 
 ---
 
