@@ -198,7 +198,9 @@ If you find these presentations useful or want to collaborate, feel free to conn
 
 ⭐ If you find this repository valuable, consider giving it a **Star** ⭐ on GitHub to support my work.  
 
---- ## 🖼️ Dashboard Snapshots
+---
+
+ ## 🖼️ Dashboard Snapshots
 
 ### Final Dashboard Preview   
 ![Decks – Final Dashboard Preview](Decks.png)
