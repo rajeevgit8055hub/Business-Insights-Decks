@@ -200,11 +200,7 @@ If you find these presentations useful or want to collaborate, feel free to conn
 
 ---
 
- ## 🖼️ Dashboard Snapshots
-
-### Final Dashboard Preview   
-![Decks – Final Dashboard Preview](Decks.png)
-
-
-### Project Overview  
+ ## 🖼️ Project Snapshots
+  
+![Decks – Final Dashboard Preview](Decks.png)  
 ![Decks – Project Overview](Decks1.png)
