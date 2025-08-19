@@ -1,4 +1,4 @@
-# Project-Showcase-Decks-Business-Communication-Insights
+# Project Showcase Decks Business Insights
 
 ## **🌟 Introduction**  
 Welcome to the **Business Presentations Repository**, a carefully curated collection of **corporate-style PowerPoint decks** designed from my personal projects.  
