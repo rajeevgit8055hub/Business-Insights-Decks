@@ -151,7 +151,7 @@ This repository is designed for both **viewing and learning**. Users can explore
 
 Steps to use effectively:  
 
-1. Browse the folders by project category (Excel, SQL, Power Query, Tableau, Web Dev).  
+1. Browse the folders by project category (Excel, SQL, Power Query, Power BI, Access, Tableau, Web Dev).  
 2. Open or download the `.pptx` files to view the decks.  
 3. Use them as **references for professional storytelling**.  
 4. Learn how to transform **technical projects into business-ready stories**.  
