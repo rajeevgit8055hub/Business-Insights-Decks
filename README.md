@@ -50,10 +50,12 @@ The repository is neatly organized into folders for better navigation. Each fold
 
 - **🗄️ SQL Projects**  
   - SQL-Project-on-Online-Book-store 
-  - Hospital-Data-SQL-Analysis-Project 
+  - Hospital-Data-SQL-Analysis
+  - NETFLIX-Data-SQL-Analysis
 
-- **📉 Power BI Projects** 
-  - Motorola-Sales-BI-Dashboard-Analysis
+- **📉 Power BI Projects**
+  - Nescafe-Driving-Coffee-Sales-Excellence
+  - Motorola-Sales-BI-Dashboard
   - Blinkit-Grocery-Analysis
 
 - **📈 Tableau Projects**  
