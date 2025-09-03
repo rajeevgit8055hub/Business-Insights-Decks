@@ -1,6 +1,25 @@
 # Project Showcase Decks Business Insights
 
-## **🌟 Introduction**  
+## 📑 Table of Contents
+
+- <a href="#introduction">🌟 Introduction</a>  
+- <a href="#about-this-repo">📌 About this Repository</a>  
+- <a href="#purpose">🎯 Purpose of this Repository</a>  
+- <a href="#repo structure">📂 Repository Structure</a>  
+- <a href="#key-highlights">✨ Key Highlights of the Presentations</a>
+- <a href="#matters">📌 Why This Matters?</a>  
+- <a href="#benefit-from-repo">👥 Who Can Benefit from this Repository?</a> 
+- <a href="#business-problem">📑 Types of Business Problems Covered</a>  
+- <a href="#methodology">⚙️ Methodology Behind the Presentations</a>
+- <a href="#repo-use">🚀 How to Use This Repository</a>  
+- <a href="#future-scope">🔮 Future Scope</a>  
+- <a href="#repo-value">🌟 Value of this Repository</a>
+- <a href="#contact">📬 Connect with Me</a>
+- <a href="#project-snapshot">🖼️ Project Snapshots</a>
+
+
+## <span id="introduction">🌟 Introduction</span>  
+
 Welcome to the **Business Presentations Repository**, a carefully curated collection of **corporate-style PowerPoint decks** designed from my personal projects.  
 This repository is not simply a storage of slides — it is a **professional showcase** where I translate technical work into **executive-ready communication**.  
 
@@ -8,7 +27,8 @@ Here, you will find decks that demonstrate how **complex problems and solutions*
 
 ---
 
-## **📌 About this Repository**  
+## <span id="about-this-repo">📌 About this Repository</span>   
+
 The purpose of this repository is to highlight my ability to **bridge technical execution with business communication**.  
 Every presentation is based on **real projects** and not just generic templates. They reflect how different technologies and domains come together to solve real-world business challenges.  
 
@@ -22,7 +42,8 @@ Each presentation is structured in a way that it can directly be used as a **boa
 
 ---
 
-## **🎯 Purpose of this Repository**  
+## <span id="purpose">🎯 Purpose of this Repository</span>  
+
 The key purpose is to create a **dedicated hub for professional presentations** that act as the storytelling layer of my projects.  
 While other repositories focus on the **technical side** (code, workflows, dashboards), this one captures the **communication side** — how those projects are explained in business terms.  
 
@@ -36,7 +57,8 @@ Think of this repository as a **bridge between analytics and boardroom storytell
 
 ---
 
-## **📂 Repository Structure**  
+## <span id="repo structure">📂 Repository Structure</span>    
+
 The repository is neatly organized into folders for better navigation. Each folder represents a project domain, making it easy to browse, download, and review the presentations.  
 
 - **📊 Excel Projects**  
@@ -74,7 +96,8 @@ This structure allows viewers to explore **domain-specific decks** in a clean, s
 
 ---
 
-## **✨ Key Highlights of the Presentations**  
+## <span id="key-highlights">✨ Key Highlights of the Presentations</span>   
+
 These presentations are more than just slides; they are designed with a **corporate communication mindset**. Each one represents both the **technical depth** and the **business storytelling element**.  
 
 Key highlights include:  
@@ -89,7 +112,8 @@ This ensures the decks can be used in multiple scenarios: interviews, client dem
 
 ---
 
-## **📌 Why This Matters?**  
+## <span id="matters">📌 Why This Matters?</span>   
+
 In the workplace, technical expertise alone is not enough. The ability to **communicate your results effectively** can set you apart from others. This repository reflects my capability to take a technical solution and present it in a way that resonates with decision-makers.  
 
 Specifically, it shows my ability to:  
@@ -103,7 +127,8 @@ By combining analysis with communication, I demonstrate **end-to-end value** —
 
 ---
 
-## **👥 Who Can Benefit from this Repository?**  
+## <span id="benefit-from-repo">👥 Who Can Benefit from this Repository?</span>  
+
 This repository is not just for me — it is designed to be **useful to a wider audience**. Whether you are a recruiter, student, or professional, these decks can provide insights into how projects should be presented.  
 
 It is especially valuable for:  
@@ -117,7 +142,8 @@ Thus, it caters to both **academic growth** and **corporate utility**.
 
 ---
 
-## **📑 Types of Business Problems Covered**  
+## <span id="business-problem">📑 Types of Business Problems Covered</span>  
+
 The repository spans across **diverse problem statements and industries**, ensuring that it covers a wide spectrum of real-world cases. Each deck highlights how a unique problem was tackled with the right tools and communication.  
 
 Domains covered include:  
@@ -132,7 +158,8 @@ This variety makes the repository an **all-round business communication showcase
 
 ---
 
-## **⚙️ Methodology Behind the Presentations**  
+## <span id="methodology">⚙️ Methodology Behind the Presentations</span>   
+
 Every presentation is created using a **systematic methodology** that ensures clarity, flow, and impact. This method guarantees that stakeholders not only understand the solution but also see its business relevance.  
 
 The standard process followed is:  
@@ -148,7 +175,8 @@ This methodology ensures the decks are **professional and easy to follow**.
 
 ---
 
-## **🚀 How to Use This Repository**  
+## <span id="repo-use">🚀 How to Use This Repository</span>   
+
 This repository is designed for both **viewing and learning**. Users can explore the folders, download the decks, and use them for inspiration in their own projects.  
 
 Steps to use effectively:  
@@ -162,7 +190,7 @@ Steps to use effectively:
 
 ---
 
-## **🔮 Future Scope**  
+## <span id="future-scope">🔮 Future Scope</span>  
 
 This repository will continue to grow and evolve as I expand my portfolio. In the future, I plan to:  
 
@@ -176,7 +204,8 @@ These additions will make the repository even more **versatile and engaging**.
 
 ---
 
-## **🌟 Value of this Repository**  
+## <span id="repo-value">🌟 Value of this Repository</span>   
+
 This repository is more than just a slide library — it is a reflection of my **professional identity**. It shows how I combine **analytical ability, design sense, and storytelling skills** into a single deliverable.  
 
 It highlights three core strengths:  
@@ -189,12 +218,16 @@ This makes it highly relevant for **corporate, academic, and personal branding p
 
 ---
 
-## **📬 Connect with Me**  
+## <span id="contact">📬 Connect with Me</span>   
+
 If you find these presentations useful or want to collaborate, feel free to connect with me. I am always open to discussions, collaborations, or sharing ideas around data, storytelling, and communication.  
 
-- 🌐 Portfolio Website: [My Official Website](https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/)  
-- 💼 LinkedIn: [Rajeev Tiwari](https://www.linkedin.com/in/rajeev-tiwari123)  
-- 📧 Email: rajeevtiwari8055@gmail.com
+- 📧 **Email**: [rajeevtiwari8055@gmail.com](mailto:rajeevtiwari8055@gmail.com)  
+- 💻 **GitHub**: [github.com/rajeevgit8055hub](https://github.com/rajeevgit8055hub)  
+- 🔗 **LinkedIn**: [linkedin.com/in/rajeev-tiwari123](https://www.linkedin.com/in/rajeev-tiwari123)  
+- 🌐 **Website**: [rajeevgit8055hub.github.io/rajeevtiwari.github.io](https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/)  
+
+🤝 *Thanks for visiting my profile!*  
 
 ---
 
@@ -202,7 +235,7 @@ If you find these presentations useful or want to collaborate, feel free to conn
 
 ---
 
- ## 🖼️ Project Snapshots
+## <span id="project-snapshot">🖼️ Project Snapshots</span>  
   
 ![Decks – Final Dashboard Preview](Decks.png)  
 ![Decks – Project Overview](Decks1.png)
