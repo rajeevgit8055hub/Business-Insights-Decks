@@ -237,7 +237,4 @@ If you find these presentations useful or want to collaborate, feel free to conn
 
 ## <span id="project-snapshot">🖼️ Project Snapshots</span>  
   
-![Decks – Final Dashboard Preview](Decks.png)  
-![Decks – Project Overview](Decks1.png)
 ![Decks – Project Overview](Data-Visualization.webp)
-![Decks – Project Overview](HR-analytics.jpg)
