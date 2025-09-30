@@ -1,4 +1,6 @@
-# Project Showcase Decks Business Insights
+# 🗂️ Business Insights Decks
+
+---
 
 ## 📑 Table of Contents
 
@@ -17,6 +19,7 @@
 - <a href="#contact">📬 Connect with Me</a>
 - <a href="#project-snapshot">🖼️ Project Snapshots</a>
 
+---
 
 ## <span id="introduction">🌟 Introduction</span>  
 
@@ -61,32 +64,32 @@ Think of this repository as a **bridge between analytics and boardroom storytell
 
 The repository is neatly organized into folders for better navigation. Each folder represents a project domain, making it easy to browse, download, and review the presentations.  
 
-- **📊 Excel Projects**  
+- **📊 Excel Business Decks**  
   - Hospital-Emergency-Room-Dashboard 
   - Retail-Sales-Dashboard-Analysis 
   - E-commerce-Sales-Dashboard-Analysis
 
-- **⚡ Power Query Projects**  
+- **⚡ Power Query Business Decks**  
   - Unified-Multi-Extension-Folder-Based-Data-Cleaning 
   - Power_Query-Messy-Rows-Cleaning-Project  
 
-- **🗄️ SQL Projects**  
+- **🗄️ SQL Business Decks**  
   - SQL-Project-on-Online-Book-store 
   - Hospital-Data-SQL-Analysis
   - NETFLIX-Data-SQL-Analysis
 
-- **📉 Power BI Projects**
+- **📉 Power BI Business Decks**
   - Nescafe-Driving-Coffee-Sales-Excellence
   - Motorola-Sales-BI-Dashboard
   - Blinkit-Grocery-Analysis
 
-- **📈 Tableau Projects**  
+- **📈 Tableau Business Decks**  
   - HSBC-Strategic-Stakeholder-Intelligence 
 
-- **🛢️ Access Projects**
+- **🛢️ Access Business Decks**
   - SmartBite-Online-Food-Delivery-DBMS  
    
-- **💻 Web Development Projects**  
+- **💻 Web Development Business Decks**  
   - Personal Portfolio Website (rajeevtiwari.github.io)
   - LoveForever-A-Heartfelt-Digital-Promise
   - 3D-Solar-System-Interactive-Animation 
@@ -238,3 +241,5 @@ If you find these presentations useful or want to collaborate, feel free to conn
 ## <span id="project-snapshot">🖼️ Project Snapshots</span>  
   
 ![Decks – Project Overview](Data-Visualization.webp)
+
+---
